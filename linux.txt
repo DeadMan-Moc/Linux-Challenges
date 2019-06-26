@@ -35,5 +35,3 @@ cd ../../mydocument
 locate pad_copy.txt
 
 #Task 6
-
-
