@@ -26,4 +26,3 @@ locate umuzi
 locate umuzi > search_result.txt
 
 #Task 5
-
