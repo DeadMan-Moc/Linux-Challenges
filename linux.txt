@@ -1,6 +1,20 @@
+#Task 1.
+
 cd Desktop
 mkdir myProject1 && cd myProject1
 touch app.js
 cd .. && mkdir myProject2
 cp -R myProject1/app.js myProject2
 cd myProject2
+
+#Task 2
+
+touch exercise.txt
+mv exercise.txt  /home/allie/Desktop/tmp
+rm -rf exercise.txt  /home/allie/Desktop/tmp
+
+#Task 3
+
+touch umuzi.txt && touch recruits.txt && touch  cohort.txt
+cat *.txt
+
