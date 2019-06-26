@@ -22,5 +22,8 @@ echo "new content" >> summary.txt
 
 #Task 4
 
+locate umuzi
+locate umuzi > search_result.txt
 
- 
+#Task 5
+
