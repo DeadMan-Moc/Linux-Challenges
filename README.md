@@ -1,18 +1,21 @@
 # Linux-Challenges By Mr Allie
 
-# Task1
+# Task 1
   introduction to linux commands
-# Task2
+# Task 2
   introduction to linux paths
   -Relative and absolute paths
-# Task3
+# Task 3
   Cat commands
-# Task4
+# Task 4
   The locate command
   -sudo updatedb first to locate
 # Task 5
   Complicated locate.
   - The code starts working from recruit folder.
-  I started there so that I could accomodate the following questions of the task. 
+  I started there so that I could accomodate the following requests of the task. 
 # Task 6
   Simplest way out->locate!
+
+# Task 7
+  
