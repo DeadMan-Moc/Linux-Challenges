@@ -1,0 +1,7 @@
+cd Desktop
+mkdir myProject1
+cd myProject1
+touch app.js
+cd .. && mkdir myProject2
+cp -R myProject1/app.js myProject2
+cd myProject2
