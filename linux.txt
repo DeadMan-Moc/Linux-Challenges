@@ -17,3 +17,4 @@ rm -rf exercise.txt  /home/allie/Desktop/tmp
 
 touch umuzi.txt && touch recruits.txt && touch  cohort.txt
 cat *.txt
+
