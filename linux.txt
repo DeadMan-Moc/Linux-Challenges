@@ -10,8 +10,8 @@ cd myProject2
 #Task 2
 
 touch exercise.txt
-mv exercise.txt  /home/allie/Desktop/tmp
-rm -rf exercise.txt  /home/allie/Desktop/tmp
+mv exercise.txt  /tmp
+rm -rf exercise.txt  /tmp
 
 #Task 3
 
