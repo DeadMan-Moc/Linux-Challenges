@@ -36,4 +36,3 @@ locate pad_copy.txt
 
 #Task 6
 
-locate *.pdf
