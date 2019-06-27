@@ -22,8 +22,8 @@ echo "new content" >> summary.txt
 
 #Task 4
 
-locate umuzi
-locate umuzi > search_result.txt
+locate umuzi.txt
+locate umuzi.txt > search_result.txt
 
 #Task 5
 
@@ -35,8 +35,13 @@ cd ../../mydocument
 locate pad_copy.txt
 
 #Task 6
+
 find -type f -name "*.pdf"
 find -type f -name "*.pdf" -exec cp {} ~/Desktop/allie \;
 find ~/ -daystart -type f -mtime 0
 
 #Task 7
+
+nano my_bio.txt
+mkdir ~/Desktop/my_files
+mv my_bio.txt ~/Desktop/my_files

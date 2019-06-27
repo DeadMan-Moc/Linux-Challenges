@@ -15,7 +15,8 @@
   - The code starts working from recruit folder.
   I started there so that I could accomodate the following requests of the task. 
 # Task 6
-  Simplest way out->locate!
-
+  Simplest way out->find
+  specify type and execute results "{}", copy to ~/Desktop/allie \;
+  find all files since day has started
 # Task 7
   
