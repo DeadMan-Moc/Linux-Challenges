@@ -19,4 +19,5 @@
   specify type and execute results "{}", copy to ~/Desktop/allie \;
   find all files since day has started
 # Task 7
-  
+  nano my_bio.txt and save, it saves file automatically
+  create a folder and  move file to the folder you created
