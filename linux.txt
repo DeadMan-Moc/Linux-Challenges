@@ -35,4 +35,5 @@ cd ../../mydocument
 locate pad_copy.txt
 
 #Task 6
-
+find -type f -name "*.pdf"
+find -type f -name "*.pdf" -exec cp {} ~/Desktop/allie \;
